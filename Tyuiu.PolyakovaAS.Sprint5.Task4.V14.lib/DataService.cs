@@ -21,7 +21,7 @@ namespace Tyuiu.PolyakovaAS.Sprint5.Task4.V14.Lib
 
             double res = Math.Round((Math.Sin(Math.Pow(Convert.ToDouble(x), 3)) + 2.0 / Convert.ToDouble(x)), 3);
             return res;
-
+            
         }
     }
 }
