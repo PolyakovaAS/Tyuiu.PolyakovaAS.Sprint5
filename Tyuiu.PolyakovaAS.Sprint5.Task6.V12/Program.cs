@@ -16,3 +16,4 @@ double res = ds.LoadFromDataFile(path);
 
 Console.WriteLine("Количество удвоенных букв нн в заданной строке = " + res);
 Console.ReadKey();
+
