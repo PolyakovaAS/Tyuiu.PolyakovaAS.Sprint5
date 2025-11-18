@@ -1,6 +1,7 @@
 ﻿using System.Globalization;
 using tyuiu.cources.programming.interfaces.Sprint5;
-namespace Tyuiu.PolyakovaAS.Sprint5.Task4.V14.lib
+
+namespace Tyuiu.PolyakovaAS.Sprint5.Task4.V14.Lib
 {
     public class DataService : ISprint5Task4V14
     {

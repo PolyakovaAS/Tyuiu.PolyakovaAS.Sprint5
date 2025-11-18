@@ -1,4 +1,4 @@
-﻿using Tyuiu.PolyakovaAS.Sprint5.Task4.V14.lib;
+﻿using Tyuiu.PolyakovaAS.Sprint5.Task4.V14.Lib;
 DataService ds = new DataService();
 
 Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                                 *");
