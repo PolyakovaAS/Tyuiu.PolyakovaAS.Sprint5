@@ -13,3 +13,4 @@ Console.WriteLine("*************************************************************
 double res = ds.LoadFromDataFile(path);
 Console.WriteLine($"Сумма чётных элементов файла = {res}");
 Console.ReadKey();
+
